@@ -1,0 +1,76 @@
+
+body{
+    border: 3px solid rgb(0, 0, 0) ;
+}
+.d0{
+   background-color: black;
+   color: #ffff;
+   margin-top: -22px;
+   
+
+}
+.d1{
+    margin-left: 5px;
+    display: block;
+    margin-block-end: 10px;
+
+    
+}
+.d1 input[type=text] {
+    display: block;
+    margin-left: 130px;
+    margin-top: -20px;
+    
+    
+
+}
+.d1 input[type=date] {
+    display: block;
+    margin-left: 130px;
+    margin-top: -20px;
+}
+.d1 input[type=password] {
+    display: block;
+    margin-left: 130px;
+    margin-top: -20px;
+}
+.d1 .f3{
+    margin-left: 90px;
+}
+
+.d1 #submit{
+
+    margin-left: 130px;
+    border: 1px solid rgb(71, 69, 69) ;
+    width: 70px;
+    height: 25px;
+}
+
+
+.d1 .ss{
+
+    margin-left: 10px;
+    border: 1px solid rgb(80, 79, 79) ;
+    width: 70px;
+    height: 25px;
+}
+.d1 input[type=submit]:hover{
+    background-color: rgb(160, 160, 155);
+
+}
+.d1 input[type=reset]:hover{
+    background-color: rgb(160, 160, 155);
+
+
+}
+.d1 input[type=file]{
+    display: block;
+    margin-left: 130px;
+    margin-top: -20px;
+    
+}
+
+
+
+
+    
